@@ -1,0 +1,30 @@
+.topo {
+  font-family: sans-serif;
+}
+
+.titulo {
+  margin: 6%;
+}
+
+.subtitulo {
+  margin: 10%;
+}
+
+fieldset {
+  border: 0;
+}
+
+body {
+  color: white;
+  background: #525a60;
+  font-family: sans-serif;
+  font-size: 1em;
+  margin-top: 2%;
+  margin-left: 37%;
+  justify-content: center;
+}
+
+input,
+button {
+  border-radius: 4px;
+}
